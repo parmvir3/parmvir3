@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @parmvir3
+- 👀 About me: I am a computer science student 
+- 🌱 What am I doing: I am currently learning c++ in my programming module 
+- 💞️ Skillset: I have learnt python last year in Foundation year of computing
+- 📫 Recent projects completed: I have completed my c++ tutorial on a coin toss program  
+- 🌱 Hobbies: In my spare time I like to play pool and watch football and cricket 
